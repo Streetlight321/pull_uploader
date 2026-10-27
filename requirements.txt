@@ -1,0 +1,4 @@
+# Runtime dependencies. Compatible-release pins keep CI reproducible while
+# still picking up bug-fix releases.
+yfinance~=1.7.0
+pandas~=3.1.0

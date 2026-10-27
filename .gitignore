@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets (future Supabase credentials go here, never in git)
+.env
+.env.*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
